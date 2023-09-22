@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  margin-top: 5%;
+}
+.from{
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  margin-left: 30%;
+  width: 35%;
+  height: 80vh;
+  box-shadow: 1px 0px 1px 1px gray;
+  /* padding-top:10px; */
+}
+.from h2{
+  font-size: 30px;
+}
+.from label{
+  text-align: left;
+  margin-right: 90%;
+
+}
+.from .label{
+  padding-top: 10px;
+}
+.from input{
+  /* display: block; */
+  width: 95%;
+  padding: 9px;
+}
+.from p{
+  text-align: left;
+}
+.btn{
+  margin-top: 5%;
+}
+.btn button{
+  width: 99%;
+  padding: 7px;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+.btn button:hover{
+  background-color: rgb(5, 233, 5);
+  
+}
+.login {
+  width: 95%;
+  border: 1px solid gray;
+  padding: 7px;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+.login .sub{
+  text-decoration: none;
+
+}
+.login:hover{
+  background-color: rgb(5, 233, 5);
+  
+}
+
